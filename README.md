@@ -1,0 +1,1 @@
+# partial-dynamic-columns-sample
